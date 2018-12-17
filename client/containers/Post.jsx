@@ -27,7 +27,7 @@ class Post extends Component {
             function createMarkupForBriefContent() {
                 if (post.content.brief) {
                     return {
-                        __html: post.brief,
+                        __html: post.content.brief,
                     };
                 } else {
                     return;
