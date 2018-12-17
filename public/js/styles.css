@@ -1,9 +1,9 @@
 body, html {
   height: 100%; }
 
-.bg {
+.hero {
   background-image: url("https://lh3.googleusercontent.com/KfM6JVzBJgwgX23MQVluZRQegNPBVvGYXZXxt2OiHHspPdElzOEr3eRh8jDX5OXvM714Kf8gFc5_YNjV8uCSTv80EB5ULg=w1201-h948-rw");
-  height: 50vh;
+  height: 75vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; }
